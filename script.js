@@ -421,7 +421,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // Codificar mensaje para URL
         const mensajeCodificado = encodeURIComponent(mensaje);
-        const whatsappURL = `https://api.whatsapp.com/send?phone=3322961969&text=${mensajeCodificado}`;
+        const whatsappURL = `https://api.whatsapp.com/send?phone=3349940235&text=${mensajeCodificado}`;
 
         // Abrir WhatsApp
         window.open(whatsappURL, "_blank");
