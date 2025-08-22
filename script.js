@@ -225,7 +225,7 @@ document.addEventListener("DOMContentLoaded", function () {
             'TostiCrazy': {
                 name: 'TostiCrazy',
                 price: 60,
-                image: 'imagenes/Foto_3.jpg',
+                image: 'imagenes/Foto_5.jpg',
                 description: 'Ricos Tostilocos estilo Snackfly, proximamente les daremos mas detalles, esperalos.....'
             },
         };
